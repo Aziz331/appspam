@@ -1,0 +1,3 @@
+﻿Prefix = th
+token= NTA3NTM2NDQ2MjM2OTE3Nzcw.DtAq6w.dw6_W7yWjrxwl_XKywfl0sfuGKQ
+owner=326005154979774465
